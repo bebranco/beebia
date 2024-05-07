@@ -1,5 +1,5 @@
 # Boas Vindas ao meu perfil
-Meu nome é Beatriz Branco!
+Meu nome é **Beatriz Branco!**
 
 💠 Estou estudando na Alura
 
@@ -9,3 +9,4 @@ Meu nome é Beatriz Branco!
 
 ## Você pode entrar em contato comigo 📫
 beatrizbrancodiasduce@gmail.com
+> Escrito por beatriz
